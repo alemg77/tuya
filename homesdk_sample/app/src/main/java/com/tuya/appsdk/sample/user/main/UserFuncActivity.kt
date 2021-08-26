@@ -27,6 +27,7 @@ import com.tuya.appsdk.sample.user.register.UserRegisterActivity
 import com.tuya.smart.home.sdk.TuyaHomeSdk
 
 
+
 /**
  * User Func Navigation Page
  *
